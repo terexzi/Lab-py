@@ -1,0 +1,4 @@
+Minu,minu@mail.com,88
+John,john@mail.com,98
+Jack,jack@mail.com,78
+Joshua,joshua@mail.com,56
